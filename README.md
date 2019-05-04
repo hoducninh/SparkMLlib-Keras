@@ -10,5 +10,5 @@
 
 ## Usecase
 
-- SparkMLlib: Recommendation System with Collabrative Filtering using Movielen dataset
-- Keras: Recommendation System with Deep Learning using Movielen dataset
+- [SparkMLlib](https://github.com/hoducninh/SparkMLlib-Keras/blob/master/Spark-MLlib.ipynb): Recommendation System with Collabrative Filtering using Movielen dataset
+- [Keras](https://github.com/hoducninh/SparkMLlib-Keras/blob/master/Spark-MLlib.ipynb): Recommendation System with Deep Learning using Movielen dataset
