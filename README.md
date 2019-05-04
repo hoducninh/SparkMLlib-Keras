@@ -2,7 +2,7 @@
 
 ## Motivation
 
-- Recap knowledge with spark MLlib and Keras
+- Recap knowledge about spark MLlib and Keras
 
 ## Approach 
 
